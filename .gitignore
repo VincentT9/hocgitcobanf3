@@ -1,3 +1,7 @@
 .env
 # a/**/**.md
 abc/
+# Comment
+node_modules/
+.logs
+index.html 
